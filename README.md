@@ -1,7 +1,6 @@
 - 👋 Hi, I’m sameer.
 - 👀 I’m interested in fullstack javascript developer, javascript,React,web development and more.....
-- 🌱 I’m currently learning React
-- 💞
+- 🌱 I’m currently learning React.
 - 📫 How to reach me  email:-  sameerahmed976@gmail.com. 
 - I am looking for job in React,javascript,web development.
 - Please look at my github repository.
