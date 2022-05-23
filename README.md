@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sameerahmed976
+- 👋 Hi, I’m sameer.
 - 👀 I’m interested in fullstack javascript developer, javascript,React,web development and more.....
 - 🌱 I’m currently learning React
 - 💞
